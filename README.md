@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 @ devconnect 
+- 👨‍💻 will be @ devconnect 
 - 📫 [2xic_](https://twitter.com/2xic_), or me@2xic.xyz
 - 📁 [Archive of older projects](https://github.com/2xic-archive)
 
