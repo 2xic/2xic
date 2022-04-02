@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 👨‍💻 @ devconnect 
+- 📫 [2xic_](https://twitter.com/2xic_), or me@2xic.xyz
+ 
 <!--
 **2xic/2xic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
